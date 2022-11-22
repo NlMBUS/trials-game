@@ -1,4 +1,4 @@
 # trials-game
-Original game made for final project in ICS3U (2020)
+Original game made for ICS3U final project (2020) in Python
 
 #### Made by Abid Rahman and Yazan Hailat
